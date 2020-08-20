@@ -1,7 +1,7 @@
 
 my:
-  name: 万俊义
-  gender: 男
+  name: 万俊义的儿子
+  gender: boy
   
 spring:
   datasource:
